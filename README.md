@@ -10,3 +10,5 @@ control + p --> python create venv
 - pip install docarray
 - pip install openai
 - pip install tiktoken
+- pip install chromadb
+- pip install tabulate
