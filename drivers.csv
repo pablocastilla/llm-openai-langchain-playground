@@ -1,4 +1,4 @@
-driverId,name,number,code,forename,surname,date of birth,nationality
+driverId,name,number,code,forename,surname,birthdate,nationality
 1,hamilton,44,HAM,Lewis,Hamilton,07/01/1985,British
 2,heidfeld,,HEI,Nick,Heidfeld,10/05/1977,German
 3,rosberg,6,ROS,Nico,Rosberg,27/06/1985,German
