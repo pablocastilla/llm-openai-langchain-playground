@@ -1,5 +1,4 @@
-# langchain-embeddings
-playground with langchain and embeddings
+# Playground for LLM, openai, langchain and so on
 
 
 ## create a virtual environment
