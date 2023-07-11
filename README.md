@@ -11,3 +11,4 @@ control + p --> python create venv
 - pip install tiktoken
 - pip install chromadb
 - pip install tabulate
+- pip install pypdf
