@@ -1,14 +1,8 @@
 # Playground for LLM, openai, langchain and so on
 
 
-## create a virtual environment
+## create a virtual environment and activate
 control + p --> python create venv
 
-- pip install langchain
-- pip install python-dotenv
-- pip install docarray
-- pip install openai
-- pip install tiktoken
-- pip install chromadb
-- pip install tabulate
-- pip install pypdf
+## install requirements
+pip install -r /path/to/requirements.txt
